@@ -321,7 +321,7 @@ const Navbar = () => {
 
           <Button
             size="compact"
-            onClick={() => window.location.replace("https://github.com/angellikgh/react-design-editor")}
+            onClick={() => window.location.replace("https://github.com/PNB1710/Positron-Video-Editor")}
             kind={KIND.tertiary}
           >
             <Github size={24} />
